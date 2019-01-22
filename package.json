@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de JS com TDD na pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoel-freitas/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Manoel Freitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manoel-freitas/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/manoel-freitas/js-tdd-course#readme"
+}
